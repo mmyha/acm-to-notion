@@ -42,6 +42,10 @@ npm run dev:firefox
 
   `.output/chrome-mv3`を選択
 
+> [!TIP]
+> 
+> Arcは`arc://extensions/`
+
 #### firefox
 
 - zip 化する
